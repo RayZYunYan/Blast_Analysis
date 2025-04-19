@@ -99,5 +99,5 @@ This tool helps explore when BLASTn or BLASTx performs better depending on seque
 CS123A Term Project  
 Spring 2025
 
-Ray Zhang: rui.zhang@sjsu.edu
+Ray Zhang: rui.zhang@sjsu.edu  
 Jisheng Jiang: jisheng.jiang@sjsu.edu
