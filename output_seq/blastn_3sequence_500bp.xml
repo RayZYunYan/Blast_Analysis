@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_4670615</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>500</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_4670615</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>500</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|2162028407|dbj|LC552831.1|</Hit_id>
+  <Hit_def>Mus musculus HI0112 mitochondrial DNA, complete genome</Hit_def>
+  <Hit_accession>LC552831</Hit_accession>
+  <Hit_len>16284</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|747197794|gb|KP090294.1|</Hit_id>
+  <Hit_def>Mus musculus strain C57BL/KaLwRij mitochondrion, complete genome</Hit_def>
+  <Hit_accession>KP090294</Hit_accession>
+  <Hit_len>16297</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|422034581|gb|JX945979.1|</Hit_id>
+  <Hit_def>Mus musculus domesticus isolate Ker_Jack0902 mitochondrion, complete genome</Hit_def>
+  <Hit_accession>JX945979</Hit_accession>
+  <Hit_len>16300</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|846388166|dbj|LC062057.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_10</Hit_def>
+  <Hit_accession>LC062057</Hit_accession>
+  <Hit_len>2488</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1855</Hsp_hit-from>
+      <Hsp_hit-to>2354</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|2244910527|emb|OW971614.1|</Hit_id>
+  <Hit_def>Mus musculus genome assembly, organelle: mitochondrion</Hit_def>
+  <Hit_accession>OW971614</Hit_accession>
+  <Hit_len>16301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|846388225|dbj|LC062067.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_20</Hit_def>
+  <Hit_accession>LC062067</Hit_accession>
+  <Hit_len>2488</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1855</Hsp_hit-from>
+      <Hsp_hit-to>2354</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|422034441|gb|JX945969.1|</Hit_id>
+  <Hit_def>Mus musculus domesticus isolate Ker_Mayes34 mitochondrion, complete genome &gt;gi|422034455|gb|JX945970.1| Mus musculus domesticus isolate Ker_Mayes46 mitochondrion, complete genome</Hit_def>
+  <Hit_accession>JX945969</Hit_accession>
+  <Hit_len>16298</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|846388120|dbj|LC062050.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_3</Hit_def>
+  <Hit_accession>LC062050</Hit_accession>
+  <Hit_len>2488</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1855</Hsp_hit-from>
+      <Hsp_hit-to>2354</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|846388204|dbj|LC062065.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_18</Hit_def>
+  <Hit_accession>LC062065</Hit_accession>
+  <Hit_len>2488</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1855</Hsp_hit-from>
+      <Hsp_hit-to>2354</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|846388127|dbj|LC062051.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_4</Hit_def>
+  <Hit_accession>LC062051</Hit_accession>
+  <Hit_len>2488</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1855</Hsp_hit-from>
+      <Hsp_hit-to>2354</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|2244910479|emb|OW971572.1|</Hit_id>
+  <Hit_def>Mus musculus genome assembly, organelle: mitochondrion</Hit_def>
+  <Hit_accession>OW971572</Hit_accession>
+  <Hit_len>16300</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|422034525|gb|JX945975.1|</Hit_id>
+  <Hit_def>Mus musculus domesticus isolate Ker_PJDA0901 mitochondrion, complete genome &gt;gi|422034553|gb|JX945977.1| Mus musculus domesticus isolate Ker_PJDA0908 mitochondrion, complete genome</Hit_def>
+  <Hit_accession>JX945975</Hit_accession>
+  <Hit_len>16298</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|846388136|dbj|LC062052.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_5</Hit_def>
+  <Hit_accession>LC062052</Hit_accession>
+  <Hit_len>2488</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1855</Hsp_hit-from>
+      <Hsp_hit-to>2354</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|846388115|dbj|LC062049.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_2 &gt;gi|846388151|dbj|LC062054.1| Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_7</Hit_def>
+  <Hit_accession>LC062049</Hit_accession>
+  <Hit_len>2488</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1855</Hsp_hit-from>
+      <Hsp_hit-to>2354</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|846388170|dbj|LC062058.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_11</Hit_def>
+  <Hit_accession>LC062058</Hit_accession>
+  <Hit_len>2488</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1855</Hsp_hit-from>
+      <Hsp_hit-to>2354</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|921325555|dbj|AP014941.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrial DNA, complete sequence, clone: B82-2748-95</Hit_def>
+  <Hit_accession>AP014941</Hit_accession>
+  <Hit_len>16300</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|422034399|gb|JX945966.1|</Hit_id>
+  <Hit_def>Mus musculus domesticus isolate Ker_Jack0912 mitochondrion, complete genome &gt;gi|422034413|gb|JX945967.1| Mus musculus domesticus isolate Ker_Jack0922 mitochondrion, complete genome</Hit_def>
+  <Hit_accession>JX945966</Hit_accession>
+  <Hit_len>16298</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|2633560957|gb|OR840820.1|</Hit_id>
+  <Hit_def>Mus spretus strain STF isolate SX4999 mitochondrion, complete genome</Hit_def>
+  <Hit_accession>OR840820</Hit_accession>
+  <Hit_len>16298</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|2633560271|gb|OR840771.1|</Hit_id>
+  <Hit_def>Mus musculus domesticus strain STLT isolate IS3782 mitochondrion, complete genome &gt;gi|2633560299|gb|OR840773.1| Mus musculus domesticus strain STRB isolate SX4048 mitochondrion, complete genome</Hit_def>
+  <Hit_accession>OR840771</Hit_accession>
+  <Hit_len>16297</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|1935582144|gb|MT937073.1|</Hit_id>
+  <Hit_def>Mus musculus breed tmt-TA C5024T mitochondrion</Hit_def>
+  <Hit_accession>MT937073</Hit_accession>
+  <Hit_len>16300</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|756142290|gb|KP260515.1|</Hit_id>
+  <Hit_def>Mus musculus strain ME mitochondrion, complete genome</Hit_def>
+  <Hit_accession>KP260515</Hit_accession>
+  <Hit_len>16290</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|756142318|gb|KP260517.1|</Hit_id>
+  <Hit_def>Mus musculus strain M6 mitochondrion, complete genome</Hit_def>
+  <Hit_accession>KP260517</Hit_accession>
+  <Hit_len>16293</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|422034385|gb|JX945965.1|</Hit_id>
+  <Hit_def>Mus musculus domesticus isolate Ker_IB06 mitochondrion, complete genome</Hit_def>
+  <Hit_accession>JX945965</Hit_accession>
+  <Hit_len>16298</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|2243790348|emb|OW971740.1|</Hit_id>
+  <Hit_def>Mus musculus genome assembly, organelle: mitochondrion</Hit_def>
+  <Hit_accession>OW971740</Hit_accession>
+  <Hit_len>16300</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|846388186|dbj|LC062062.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_15</Hit_def>
+  <Hit_accession>LC062062</Hit_accession>
+  <Hit_len>2488</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1855</Hsp_hit-from>
+      <Hsp_hit-to>2354</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|2633560369|gb|OR840778.1|</Hit_id>
+  <Hit_def>Mus musculus domesticus strain WLA isolate FB65 mitochondrion, complete genome</Hit_def>
+  <Hit_accession>OR840778</Hit_accession>
+  <Hit_len>16302</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|422034567|gb|JX945978.1|</Hit_id>
+  <Hit_def>Mus musculus domesticus isolate Ker_Gui05 mitochondrion, complete genome</Hit_def>
+  <Hit_accession>JX945978</Hit_accession>
+  <Hit_len>16297</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|482427243|dbj|AP013054.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrial DNA from Lewis lung carcinoma, complete sequence</Hit_def>
+  <Hit_accession>AP013054</Hit_accession>
+  <Hit_len>16299</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|846387307|dbj|AP014886.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrial DNA, complete sequence, strain: C57BL/6J</Hit_def>
+  <Hit_accession>AP014886</Hit_accession>
+  <Hit_len>16301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|2633559893|gb|OR840744.1|</Hit_id>
+  <Hit_def>Mus musculus domesticus strain DJO isolate SX3809 mitochondrion, complete genome</Hit_def>
+  <Hit_accession>OR840744</Hit_accession>
+  <Hit_len>16299</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|1197988689|gb|KY018919.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrion, complete genome</Hit_def>
+  <Hit_accession>KY018919</Hit_accession>
+  <Hit_len>16300</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|2633559921|gb|OR840746.1|</Hit_id>
+  <Hit_def>Mus musculus domesticus strain DMZ isolate SX4552 mitochondrion, complete genome</Hit_def>
+  <Hit_accession>OR840746</Hit_accession>
+  <Hit_len>16299</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|2327616453|gb|OM948981.1|</Hit_id>
+  <Hit_def>Mus musculus strain C57BL/6NCrl mitochondrion, complete genome</Hit_def>
+  <Hit_accession>OM948981</Hit_accession>
+  <Hit_len>16300</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|2243790992|emb|OW971761.1|</Hit_id>
+  <Hit_def>Mus musculus genome assembly, organelle: mitochondrion</Hit_def>
+  <Hit_accession>OW971761</Hit_accession>
+  <Hit_len>16300</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|846388198|dbj|LC062064.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_17</Hit_def>
+  <Hit_accession>LC062064</Hit_accession>
+  <Hit_len>2490</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1857</Hsp_hit-from>
+      <Hsp_hit-to>2356</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|422034511|gb|JX945974.1|</Hit_id>
+  <Hit_def>Mus musculus domesticus isolate Ker_PJDA03 mitochondrion, complete genome</Hit_def>
+  <Hit_accession>JX945974</Hit_accession>
+  <Hit_len>16298</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|2259040164|emb|OW971803.1|</Hit_id>
+  <Hit_def>Mus musculus genome assembly, organelle: mitochondrion</Hit_def>
+  <Hit_accession>OW971803</Hit_accession>
+  <Hit_len>16301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|2259022775|emb|OW971656.1|</Hit_id>
+  <Hit_def>Mus musculus genome assembly, organelle: mitochondrion</Hit_def>
+  <Hit_accession>OW971656</Hit_accession>
+  <Hit_len>16300</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|846388162|dbj|LC062056.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_9</Hit_def>
+  <Hit_accession>LC062056</Hit_accession>
+  <Hit_len>2488</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1855</Hsp_hit-from>
+      <Hsp_hit-to>2354</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|457866490|dbj|AP013031.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrial DNA, complete genome, clone: P29mtC3H</Hit_def>
+  <Hit_accession>AP013031</Hit_accession>
+  <Hit_len>16300</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|846388156|dbj|LC062055.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_8</Hit_def>
+  <Hit_accession>LC062055</Hit_accession>
+  <Hit_len>2488</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1855</Hsp_hit-from>
+      <Hsp_hit-to>2354</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|344267002|gb|HQ675031.1|</Hit_id>
+  <Hit_def>Mus musculus isolate M10 mitochondrion, complete genome</Hit_def>
+  <Hit_accession>HQ675031</Hit_accession>
+  <Hit_len>16300</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|457866476|dbj|AP013030.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrial DNA, complete genome, clone: P29mtB6</Hit_def>
+  <Hit_accession>AP013030</Hit_accession>
+  <Hit_len>16301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|2243790669|emb|OW971635.1|</Hit_id>
+  <Hit_def>Mus musculus domesticus genome assembly, organelle: mitochondrion</Hit_def>
+  <Hit_accession>OW971635</Hit_accession>
+  <Hit_len>16301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|846388211|dbj|LC062066.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrion DNA, including Cytb, tRNA-Tyr, tRNA-Pro, tRNA-Phe, 12S rRNA genes and D-loop, complete sequence, sequence_id: (14446..634)_19</Hit_def>
+  <Hit_accession>LC062066</Hit_accession>
+  <Hit_len>2488</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1855</Hsp_hit-from>
+      <Hsp_hit-to>2354</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|2244910434|emb|OW971593.1|</Hit_id>
+  <Hit_def>Mus musculus genome assembly, organelle: mitochondrion</Hit_def>
+  <Hit_accession>OW971593</Hit_accession>
+  <Hit_len>16300</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|422034497|gb|JX945973.1|</Hit_id>
+  <Hit_def>Mus musculus domesticus isolate Ker_PJDA01 mitochondrion, complete genome &gt;gi|422034539|gb|JX945976.1| Mus musculus domesticus isolate Ker_PJDA0907 mitochondrion, complete genome</Hit_def>
+  <Hit_accession>JX945973</Hit_accession>
+  <Hit_len>16298</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|2415280279|emb|OX390165.1|</Hit_id>
+  <Hit_def>Mus musculus genome assembly, organelle: mitochondrion</Hit_def>
+  <Hit_accession>OX390165</Hit_accession>
+  <Hit_len>16301</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|574608740|dbj|AP014540.1|</Hit_id>
+  <Hit_def>Mus musculus mitochondrial DNA, complete sequence, cell_line: P29-69-183 &gt;gi|574608754|dbj|AP014541.1| Mus musculus mitochondrial DNA, complete sequence, mito-mice-tRNALys7731</Hit_def>
+  <Hit_accession>AP014540</Hit_accession>
+  <Hit_len>16300</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|422034371|gb|JX945964.1|</Hit_id>
+  <Hit_def>Mus musculus domesticus isolate Ker_Couv0903 mitochondrion, complete genome</Hit_def>
+  <Hit_accession>JX945964</Hit_accession>
+  <Hit_len>16298</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>902.971</Hsp_bit-score>
+      <Hsp_score>1000</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>500</Hsp_identity>
+      <Hsp_positive>500</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>500</Hsp_align-len>
+      <Hsp_qseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_qseq>
+      <Hsp_hseq>GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAATTGTATCCCATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAATTAGAGGTAAAATTACACATGCAAACCTCCATAGACCGGTGTAAAATCCCTTAAACATTTACTTAAAATTTAAGGAGAGGGTATCAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAGTGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAATTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATCTTCGGCGTAAAACGTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGTTAGGACCTAAACTCAATAACGAAAGTAATTCTAGTCATTTATAATACACGACAGCTAAGACCCAAACTGGGATTAGATA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>114140688</Statistics_db-num>
+      <Statistics_db-len>850125702659</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

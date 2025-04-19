@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>core_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1643241</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>100</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1643241</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>100</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1675013727|ref|NM_001291586.2|</Hit_id>
+  <Hit_def>Homo sapiens transmembrane protein 106A (TMEM106A), transcript variant 1, mRNA</Hit_def>
+  <Hit_accession>NM_001291586</Hit_accession>
+  <Hit_len>3288</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1228</Hsp_hit-from>
+      <Hsp_hit-to>1129</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|187956855|gb|BC157892.1|</Hit_id>
+  <Hit_def>Homo sapiens transmembrane protein 106A, mRNA (cDNA clone MGC:189773 IMAGE:9057097), complete cds</Hit_def>
+  <Hit_accession>BC157892</Hit_accession>
+  <Hit_len>3024</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1070</Hsp_hit-from>
+      <Hsp_hit-to>971</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1676316947|ref|NM_001291587.2|</Hit_id>
+  <Hit_def>Homo sapiens transmembrane protein 106A (TMEM106A), transcript variant 3, mRNA</Hit_def>
+  <Hit_accession>NM_001291587</Hit_accession>
+  <Hit_len>3122</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1062</Hsp_hit-from>
+      <Hsp_hit-to>963</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|16551452|dbj|AK056132.1|</Hit_id>
+  <Hit_def>Homo sapiens cDNA FLJ31570 fis, clone NT2RI2001657</Hit_def>
+  <Hit_accession>AK056132</Hit_accession>
+  <Hit_len>2795</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1206</Hsp_hit-from>
+      <Hsp_hit-to>1107</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|262359905|ref|NG_005905.2|</Hit_id>
+  <Hit_def>Homo sapiens BRCA1 DNA repair associated (BRCA1), RefSeqGene (LRG_292) on chromosome 17</Hit_def>
+  <Hit_accession>NG_005905</Hit_accession>
+  <Hit_len>193689</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>100</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|223462803|gb|BC146974.1|</Hit_id>
+  <Hit_def>Homo sapiens similar to transmembrane protein 106A, mRNA (cDNA clone MGC:182077 IMAGE:9056902), complete cds</Hit_def>
+  <Hit_accession>BC146974</Hit_accession>
+  <Hit_len>1623</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1070</Hsp_hit-from>
+      <Hsp_hit-to>971</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|34193620|gb|BC012139.2|</Hit_id>
+  <Hit_def>Homo sapiens transmembrane protein 106A, mRNA (cDNA clone MGC:20235 IMAGE:4562851), complete cds</Hit_def>
+  <Hit_accession>BC012139</Hit_accession>
+  <Hit_len>2664</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1158</Hsp_hit-from>
+      <Hsp_hit-to>1059</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|158261796|dbj|AK290387.1|</Hit_id>
+  <Hit_def>Homo sapiens cDNA FLJ77644 complete cds</Hit_def>
+  <Hit_accession>AK290387</Hit_accession>
+  <Hit_len>1437</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1228</Hsp_hit-from>
+      <Hsp_hit-to>1129</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|119675748|gb|AC160862.2|</Hit_id>
+  <Hit_def>Homo sapiens chromosome 17 clone WI2-3095P13, complete sequence</Hit_def>
+  <Hit_accession>AC160862</Hit_accession>
+  <Hit_len>37717</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>12294</Hsp_hit-from>
+      <Hsp_hit-to>12393</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|221043013|dbj|AK299974.1|</Hit_id>
+  <Hit_def>Homo sapiens cDNA FLJ50420 complete cds, highly similar to Transmembrane protein 106A</Hit_def>
+  <Hit_accession>AK299974</Hit_accession>
+  <Hit_len>1330</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1062</Hsp_hit-from>
+      <Hsp_hit-to>963</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|2108243289|gb|OK040665.1|</Hit_id>
+  <Hit_def>Mus musculus musculus strain C57BL/10 chromosome 17 sequence &gt;gi|2108243300|gb|OK040675.1| Mus musculus musculus strain O20 chromosome 17 sequence</Hit_def>
+  <Hit_accession>OK040665</Hit_accession>
+  <Hit_len>15712434</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>6644145</Hsp_hit-from>
+      <Hsp_hit-to>6644046</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|1548994291|gb|CP034495.1|</Hit_id>
+  <Hit_def>Eukaryotic synthetic construct chromosome 17 &gt;gi|1549096955|gb|CP034520.1| Eukaryotic synthetic construct chromosome 17</Hit_def>
+  <Hit_accession>CP034495</Hit_accession>
+  <Hit_len>88299790</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>41370000</Hsp_hit-from>
+      <Hsp_hit-to>41369901</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|1519311473|ref|NM_145041.4|</Hit_id>
+  <Hit_def>Homo sapiens transmembrane protein 106A (TMEM106A), transcript variant 2, mRNA</Hit_def>
+  <Hit_accession>NM_145041</Hit_accession>
+  <Hit_len>3266</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1206</Hsp_hit-from>
+      <Hsp_hit-to>1107</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|26024107|gb|AC109326.11|</Hit_id>
+  <Hit_def>Homo sapiens chromosome 17, clone CTD-3014M21, complete sequence</Hit_def>
+  <Hit_accession>AC109326</Hit_accession>
+  <Hit_len>97367</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>73563</Hsp_hit-from>
+      <Hsp_hit-to>73662</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|221043675|dbj|AK301571.1|</Hit_id>
+  <Hit_def>Homo sapiens cDNA FLJ50717 complete cds, highly similar to Transmembrane protein 106A</Hit_def>
+  <Hit_accession>AK301571</Hit_accession>
+  <Hit_len>1181</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>897</Hsp_hit-from>
+      <Hsp_hit-to>798</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gi|291490863|gb|AC239663.3|</Hit_id>
+  <Hit_def>Homo sapiens FOSMID clone COR2A-DD0002UWCNU_E24 from chromosome 17, complete sequence</Hit_def>
+  <Hit_accession>AC239663</Hit_accession>
+  <Hit_len>36086</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>3399</Hsp_hit-from>
+      <Hsp_hit-to>3498</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gi|513788327|gb|AC024051.5|</Hit_id>
+  <Hit_def>Homo sapiens BAC clone RP11-570A16 from chromosome 17, complete sequence</Hit_def>
+  <Hit_accession>AC024051</Hit_accession>
+  <Hit_len>138045</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>111568</Hsp_hit-from>
+      <Hsp_hit-to>111667</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gi|1676316914|ref|NM_001291588.2|</Hit_id>
+  <Hit_def>Homo sapiens transmembrane protein 106A (TMEM106A), transcript variant 4, mRNA</Hit_def>
+  <Hit_accession>NM_001291588</Hit_accession>
+  <Hit_len>2957</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>181.623</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>1.12885e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>897</Hsp_hit-from>
+      <Hsp_hit-to>798</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gi|2697748884|ref|XM_063798545.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan troglodytes transmembrane protein 106A (TMEM106A), transcript variant X5, mRNA</Hit_def>
+  <Hit_accession>XM_063798545</Hit_accession>
+  <Hit_len>3170</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1070</Hsp_hit-from>
+      <Hsp_hit-to>971</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gi|2697748879|ref|XM_009432115.5|</Hit_id>
+  <Hit_def>PREDICTED: Pan troglodytes transmembrane protein 106A (TMEM106A), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_009432115</Hit_accession>
+  <Hit_len>3427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1327</Hsp_hit-from>
+      <Hsp_hit-to>1228</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gi|2695045235|ref|XM_063705826.1|</Hit_id>
+  <Hit_def>PREDICTED: Gorilla gorilla gorilla transmembrane protein 106A (TMEM106A), transcript variant X10, mRNA</Hit_def>
+  <Hit_accession>XM_063705826</Hit_accession>
+  <Hit_len>3185</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1098</Hsp_hit-from>
+      <Hsp_hit-to>999</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gi|2697748882|ref|XM_016931737.4|</Hit_id>
+  <Hit_def>PREDICTED: Pan troglodytes transmembrane protein 106A (TMEM106A), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_016931737</Hit_accession>
+  <Hit_len>2587</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1081</Hsp_hit-from>
+      <Hsp_hit-to>982</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gi|2697748883|ref|XM_009432117.5|</Hit_id>
+  <Hit_def>PREDICTED: Pan troglodytes transmembrane protein 106A (TMEM106A), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_009432117</Hit_accession>
+  <Hit_len>3228</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1128</Hsp_hit-from>
+      <Hsp_hit-to>1029</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gi|2695045214|ref|XM_019026710.4|</Hit_id>
+  <Hit_def>PREDICTED: Gorilla gorilla gorilla transmembrane protein 106A (TMEM106A), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_019026710</Hit_accession>
+  <Hit_len>3351</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1264</Hsp_hit-from>
+      <Hsp_hit-to>1165</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gi|2697748888|ref|XM_063798547.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan troglodytes transmembrane protein 106A (TMEM106A), transcript variant X7, mRNA</Hit_def>
+  <Hit_accession>XM_063798547</Hit_accession>
+  <Hit_len>2590</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1084</Hsp_hit-from>
+      <Hsp_hit-to>985</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gi|2695045230|ref|XM_063705825.1|</Hit_id>
+  <Hit_def>PREDICTED: Gorilla gorilla gorilla transmembrane protein 106A (TMEM106A), transcript variant X8, mRNA</Hit_def>
+  <Hit_accession>XM_063705825</Hit_accession>
+  <Hit_len>3188</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1101</Hsp_hit-from>
+      <Hsp_hit-to>1002</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gi|2697748890|ref|XR_010152836.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan troglodytes transmembrane protein 106A (TMEM106A), transcript variant X8, misc_RNA</Hit_def>
+  <Hit_accession>XR_010152836</Hit_accession>
+  <Hit_len>2779</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1273</Hsp_hit-from>
+      <Hsp_hit-to>1174</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gi|2697748886|ref|XM_063798546.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan troglodytes transmembrane protein 106A (TMEM106A), transcript variant X6, mRNA</Hit_def>
+  <Hit_accession>XM_063798546</Hit_accession>
+  <Hit_len>3218</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1118</Hsp_hit-from>
+      <Hsp_hit-to>1019</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gi|2694362969|ref|XM_063599022.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus transmembrane protein 106A (TMEM106A), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_063599022</Hit_accession>
+  <Hit_len>1836</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1116</Hsp_hit-from>
+      <Hsp_hit-to>1017</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gi|2694362966|ref|XM_008966525.6|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus transmembrane protein 106A (TMEM106A), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_008966525</Hit_accession>
+  <Hit_len>2024</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1304</Hsp_hit-from>
+      <Hsp_hit-to>1205</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gi|2695045217|ref|XM_019026708.4|</Hit_id>
+  <Hit_def>PREDICTED: Gorilla gorilla gorilla transmembrane protein 106A (TMEM106A), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_019026708</Hit_accession>
+  <Hit_len>3337</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1250</Hsp_hit-from>
+      <Hsp_hit-to>1151</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gi|2695045233|ref|XM_055388063.2|</Hit_id>
+  <Hit_def>PREDICTED: Gorilla gorilla gorilla transmembrane protein 106A (TMEM106A), transcript variant X9, mRNA</Hit_def>
+  <Hit_accession>XM_055388063</Hit_accession>
+  <Hit_len>3185</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1098</Hsp_hit-from>
+      <Hsp_hit-to>999</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gi|2694362967|ref|XM_055100886.2|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus transmembrane protein 106A (TMEM106A), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_055100886</Hit_accession>
+  <Hit_len>2016</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1296</Hsp_hit-from>
+      <Hsp_hit-to>1197</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gi|2695045227|ref|XM_055388062.2|</Hit_id>
+  <Hit_def>PREDICTED: Gorilla gorilla gorilla transmembrane protein 106A (TMEM106A), transcript variant X7, mRNA</Hit_def>
+  <Hit_accession>XM_055388062</Hit_accession>
+  <Hit_len>3194</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1107</Hsp_hit-from>
+      <Hsp_hit-to>1008</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gi|2697748880|ref|XM_063798544.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan troglodytes transmembrane protein 106A (TMEM106A), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_063798544</Hit_accession>
+  <Hit_len>3328</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1228</Hsp_hit-from>
+      <Hsp_hit-to>1129</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gi|2694362973|ref|XM_055100887.2|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus transmembrane protein 106A (TMEM106A), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_055100887</Hit_accession>
+  <Hit_len>2129</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1409</Hsp_hit-from>
+      <Hsp_hit-to>1310</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gi|2694362975|ref|XM_063599023.1|</Hit_id>
+  <Hit_def>PREDICTED: Pan paniscus transmembrane protein 106A (TMEM106A), transcript variant X5, mRNA</Hit_def>
+  <Hit_accession>XM_063599023</Hit_accession>
+  <Hit_len>1870</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.115</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>4.79997e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1150</Hsp_hit-from>
+      <Hsp_hit-to>1051</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>99</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gi|223462050|gb|BC146976.1|</Hit_id>
+  <Hit_def>Homo sapiens transmembrane protein 106A, mRNA (cDNA clone MGC:182079 IMAGE:9056904), complete cds</Hit_def>
+  <Hit_accession>BC146976</Hit_accession>
+  <Hit_len>3030</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>175.311</Hsp_bit-score>
+      <Hsp_score>193</Hsp_score>
+      <Hsp_evalue>1.67536e-39</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1071</Hsp_hit-from>
+      <Hsp_hit-to>971</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>101</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCC-TGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gi|808045|gb|U25750.1|HSU25750</Hit_id>
+  <Hit_def>Human chromosome 17q21 mRNA clone 1046:1-1</Hit_def>
+  <Hit_accession>U25750</Hit_accession>
+  <Hit_len>3543</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>173.508</Hsp_bit-score>
+      <Hsp_score>191</Hsp_score>
+      <Hsp_evalue>5.84756e-39</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>693</Hsp_hit-from>
+      <Hsp_hit-to>594</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>97</Hsp_identity>
+      <Hsp_positive>97</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTKKKGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||   ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>gi|2695811825|ref|XM_063656711.1|</Hit_id>
+  <Hit_def>PREDICTED: Pongo pygmaeus transmembrane protein 106A (TMEM106A), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_063656711</Hit_accession>
+  <Hit_len>3447</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>172.606</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>5.84756e-39</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1200</Hsp_hit-from>
+      <Hsp_hit-to>1101</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>98</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTAATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gi|1751254477|ref|XM_030923123.1|</Hit_id>
+  <Hit_def>PREDICTED: Rhinopithecus roxellana transmembrane protein 106A (TMEM106A), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_030923123</Hit_accession>
+  <Hit_len>3594</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>172.606</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>5.84756e-39</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1546</Hsp_hit-from>
+      <Hsp_hit-to>1447</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>98</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGCGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gi|2695811823|ref|XM_054457757.2|</Hit_id>
+  <Hit_def>PREDICTED: Pongo pygmaeus transmembrane protein 106A (TMEM106A), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_054457757</Hit_accession>
+  <Hit_len>3817</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>172.606</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>5.84756e-39</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1570</Hsp_hit-from>
+      <Hsp_hit-to>1471</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>98</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTAATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gi|1059099791|ref|XM_017867679.1|</Hit_id>
+  <Hit_def>PREDICTED: Rhinopithecus bieti transmembrane protein 106A (TMEM106A), transcript variant X5, mRNA</Hit_def>
+  <Hit_accession>XM_017867679</Hit_accession>
+  <Hit_len>3662</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>172.606</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>5.84756e-39</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1625</Hsp_hit-from>
+      <Hsp_hit-to>1526</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>98</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGCGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>gi|1751254474|ref|XM_030923122.1|</Hit_id>
+  <Hit_def>PREDICTED: Rhinopithecus roxellana transmembrane protein 106A (TMEM106A), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_030923122</Hit_accession>
+  <Hit_len>3423</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>172.606</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>5.84756e-39</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1375</Hsp_hit-from>
+      <Hsp_hit-to>1276</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>98</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGCGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>gi|1825909230|ref|XM_033182869.1|</Hit_id>
+  <Hit_def>PREDICTED: Trachypithecus francoisi transmembrane protein 106A (TMEM106A), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_033182869</Hit_accession>
+  <Hit_len>4642</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>172.606</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>5.84756e-39</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1302</Hsp_hit-from>
+      <Hsp_hit-to>1203</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>98</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGCGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>gi|2695811824|ref|XM_054457758.2|</Hit_id>
+  <Hit_def>PREDICTED: Pongo pygmaeus transmembrane protein 106A (TMEM106A), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_054457758</Hit_accession>
+  <Hit_len>3554</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>172.606</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>5.84756e-39</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1307</Hsp_hit-from>
+      <Hsp_hit-to>1208</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>98</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTAATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>gi|1825909228|ref|XM_033182868.1|</Hit_id>
+  <Hit_def>PREDICTED: Trachypithecus francoisi transmembrane protein 106A (TMEM106A), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_033182868</Hit_accession>
+  <Hit_len>4672</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>172.606</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>5.84756e-39</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1332</Hsp_hit-from>
+      <Hsp_hit-to>1233</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>98</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGCGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>gi|1751254476|ref|XM_010377198.2|</Hit_id>
+  <Hit_def>PREDICTED: Rhinopithecus roxellana transmembrane protein 106A (TMEM106A), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_010377198</Hit_accession>
+  <Hit_len>3356</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>172.606</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>5.84756e-39</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1308</Hsp_hit-from>
+      <Hsp_hit-to>1209</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>98</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGCGGGTGGGAGGTAAGGGTGTGATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gi|2694609195|ref|XM_054546485.2|</Hit_id>
+  <Hit_def>PREDICTED: Pongo abelii transmembrane protein 106A (TMEM106A), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_054546485</Hit_accession>
+  <Hit_len>3395</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>172.606</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>5.84756e-39</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1157</Hsp_hit-from>
+      <Hsp_hit-to>1058</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>98</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTAATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gi|2694609193|ref|XM_009251697.4|</Hit_id>
+  <Hit_def>PREDICTED: Pongo abelii transmembrane protein 106A (TMEM106A), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_009251697</Hit_accession>
+  <Hit_len>3572</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>172.606</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>5.84756e-39</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>1334</Hsp_hit-from>
+      <Hsp_hit-to>1235</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>98</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>100</Hsp_align-len>
+      <Hsp_qseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTGATGAGGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_qseq>
+      <Hsp_hseq>TGTGTGTATGAAGTTAACTTCAAAGCAAGCTTCCTGTGCTGAGGGGGTGGGAGGTAAGGGTGTAATGAAGCAGGGCTTCTCCTTTGGCAAAGCCTCTGTA</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||| |||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>114140688</Statistics_db-num>
+      <Statistics_db-len>850125702659</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
