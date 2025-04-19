@@ -34,7 +34,7 @@ BLAST_ANALYSIS/
 
 ```bash
 python -m venv venv
-.env\Scriptsctivate
+.\env\Scripts\activate
 ```
 
 ### 2. Install required libraries
