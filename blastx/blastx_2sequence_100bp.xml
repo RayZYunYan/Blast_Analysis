@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastx</BlastOutput_program>
+  <BlastOutput_version>BLASTX 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1581575</BlastOutput_query-ID>
+  <BlastOutput_query-def>No definition line</BlastOutput_query-def>
+  <BlastOutput_query-len>100</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1581575</Iteration_query-ID>
+  <Iteration_query-def>No definition line</Iteration_query-def>
+  <Iteration_query-len>100</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gb|AJB37804.1|</Hit_id>
+  <Hit_def>hypothetical protein L282_2842 [Escherichia coli APEC IMT5155]</Hit_def>
+  <Hit_accession>AJB37804</Hit_accession>
+  <Hit_len>49</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>63.5438</Hsp_bit-score>
+      <Hsp_score>153</Hsp_score>
+      <Hsp_evalue>6.47942e-12</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gb|EOU43951.1|</Hit_id>
+  <Hit_def>hypothetical protein WC9_04768 [Escherichia coli KTE231] &gt;emb|SQR72847.1| RNA methyltransferase [Escherichia coli]</Hit_def>
+  <Hit_accession>EOU43951</Hit_accession>
+  <Hit_len>41</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>63.1586</Hsp_bit-score>
+      <Hsp_score>152</Hsp_score>
+      <Hsp_evalue>9.60605e-12</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>11</Hsp_hit-from>
+      <Hsp_hit-to>41</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gb|EQN08915.1|</Hit_id>
+  <Hit_def>hypothetical protein G683_01926, partial [Escherichia coli HVH 3 (4-7276001)] &gt;gb|EQN09250.1| hypothetical protein G682_00001, partial [Escherichia coli HVH 2 (4-6943160)] &gt;gb|EQN22565.1| hypothetical protein G685_00804, partial [Escherichia coli HVH 5 (4-7148410)] &gt;gb|EQN25212.1| hypothetical protein G684_00073, partial [Escherichia coli HVH 4 (4-7276109)] &gt;gb|EQN37895.1| hypothetical protein G688_00203, partial [Escherichia coli HVH 9 (4-6942539)] &gt;gb|EQN40702.1| hypothetical protein G687_00209, partial [Escherichia coli HVH 7 (4-7315031)] &gt;gb|EQN55469.1| hypothetical protein G692_00001, partial [Escherichia coli HVH 16 (4-7649002)] &gt;gb|EQN57363.1| hypothetical protein G691_00001, partial [Escherichia coli HVH 13 (4-7634056)] &gt;gb|EQN65869.1| hypothetical protein G696_00212, partial [Escherichia coli HVH 20 (4-5865042)] &gt;gb|EQN71972.1| hypothetical protein G694_00195, partial [Escherichia coli HVH 18 (4-8589585)] &gt;gb|EQO00191.1| hypothetical protein G703_00251, partial [Escherichia coli HVH 27 (4-7449267)] &gt;gb|EQO09550.1| hypothetical protein G704_02657, partial [Escherichia coli HVH 28 (4-0907367)] &gt;gb|EQO23815.1| hypothetical protein G707_00252, partial [Escherichia coli HVH 31 (4-2602156)] &gt;gb|EQO36386.1| hypothetical protein G709_00594, partial [Escherichia coli HVH 33 (4-2174936)] &gt;gb|EQO37345.1| hypothetical protein G710_00001, partial [Escherichia coli HVH 35 (4-2962667)] &gt;gb|EQO45630.1| hypothetical protein G712_00001, partial [Escherichia coli HVH 37 (4-2773848)] &gt;gb|EQO49069.1| hypothetical protein G714_00001, partial [Escherichia coli HVH 39 (4-2679949)] &gt;gb|EQO55168.1| hypothetical protein G715_00001, partial [Escherichia coli HVH 40 (4-1219782)] &gt;gb|EQO55501.1| hypothetical protein G713_00001, partial [Escherichia coli HVH 38 (4-2774682)] &gt;gb|EQO60511.1| hypothetical protein G718_03990, partial [Escherichia coli HVH 43 (4-2173468)] &gt;gb|EQO64630.1| hypothetical protein G717_00001, partial [Escherichia coli HVH 42 (4-2100061)] &gt;gb|EQO76424.1| hypothetical protein G719_00001, partial [Escherichia coli HVH 44 (4-2298570)] &gt;gb|EQO91764.1| hypothetical protein G721_00202, partial [Escherichia coli HVH 46 (4-2758776)] &gt;gb|EQO98812.1| hypothetical protein G725_02348, partial [Escherichia coli HVH 53 (4-0631051)] &gt;gb|EQP00565.1| hypothetical protein G724_00001, partial [Escherichia coli HVH 51 (4-2172526)] &gt;gb|EQP04608.1| hypothetical protein G727_00001, partial [Escherichia coli HVH 55 (4-2646161)] &gt;gb|EQP12830.1| hypothetical protein G728_00001, partial [Escherichia coli HVH 56 (4-2153033)] &gt;gb|EQP15142.1| hypothetical protein G729_00001, partial [Escherichia coli HVH 58 (4-2839709)] &gt;gb|EQP24803.1| hypothetical protein G731_00001, partial [Escherichia coli HVH 61 (4-2736020)] &gt;gb|EQP42062.1| hypothetical protein G734_00001, partial [Escherichia coli HVH 68 (4-0888028)] &gt;gb|EQP57372.1| hypothetical protein G738_00001, partial [Escherichia coli HVH 74 (4-1034782)] &gt;gb|EQP60421.1| hypothetical protein G736_00001, partial [Escherichia coli HVH 70 (4-2963531)] &gt;gb|EQP73190.1| hypothetical protein G741_01036, partial [Escherichia coli HVH 78 (4-2735946)] &gt;gb|EQP77568.1| hypothetical protein G740_00239, partial [Escherichia coli HVH 77 (4-2605759)] &gt;gb|EQP79506.1| hypothetical protein G744_04850, partial [Escherichia coli HVH 82 (4-2209276)] &gt;gb|EQP81401.1| hypothetical protein G742_00001, partial [Escherichia coli HVH 79 (4-2512823)] &gt;gb|EQQ11855.1| hypothetical protein G751_00310, partial [Escherichia coli HVH 89 (4-5885604)] &gt;gb|EQQ30036.1| hypothetical protein G756_00001, partial [Escherichia coli HVH 95 (4-6074464)] &gt;gb|EQQ30830.1| hypothetical protein G753_00001, partial [Escherichia coli HVH 91 (4-4638751)] &gt;gb|EQQ32740.1| hypothetical protein G754_00251, partial [Escherichia coli HVH 92 (4-5930790)] &gt;gb|EQQ43603.1| hypothetical protein G763_00538, partial [Escherichia coli HVH 102 (4-6906788)] &gt;gb|EQQ52497.1| hypothetical protein G757_00001, partial [Escherichia coli HVH 96 (4-5934869)] &gt;gb|EQQ57053.1| hypothetical protein G764_00306, partial [Escherichia coli HVH 103 (4-5904188)] &gt;gb|EQQ59915.1| hypothetical protein G765_00001, partial [Escherichia coli HVH 104 (4-6977960)] &gt;gb|EQQ76672.1| hypothetical protein G772_01398, partial [Escherichia coli HVH 111 (4-7039018)] &gt;gb|EQQ80643.1| hypothetical protein G770_00001, partial [Escherichia coli HVH 109 (4-6977162)] &gt;gb|EQQ92750.1| hypothetical protein G773_00001, partial [Escherichia coli HVH 112 (4-5987253)] &gt;gb|EQQ94512.1| hypothetical protein G775_00001, partial [Escherichia coli HVH 114 (4-7037740)] &gt;gb|EQR02778.1| hypothetical protein G777_01630, partial [Escherichia coli HVH 115 (4-4465989)] &gt;gb|EQR09906.1| hypothetical protein G778_00212, partial [Escherichia coli HVH 116 (4-6879942)] &gt;gb|EQR11292.1| hypothetical protein G776_00001, partial [Escherichia coli HVH 115 (4-4465997)] &gt;gb|EQR20990.1| hypothetical protein G779_00001, partial [Escherichia coli HVH 117 (4-6857191)] &gt;gb|EQR35318.1| hypothetical protein G782_00001, partial [Escherichia coli HVH 120 (4-6978681)] &gt;gb|EQR46190.1| hypothetical protein G783_00001, partial [Escherichia coli HVH 121 (4-6877826)] &gt;gb|EQR48049.1| hypothetical protein G785_00001, partial [Escherichia coli HVH 125 (4-2634716)] &gt;gb|EQR64400.1| hypothetical protein G788_00001, partial [Escherichia coli HVH 128 (4-7030436)] &gt;gb|EQR69437.1| hypothetical protein G790_00262, partial [Escherichia coli HVH 132 (4-6876862)] &gt;gb|EQR76132.1| hypothetical protein G793_00001, partial [Escherichia coli HVH 135 (4-4449320)] &gt;gb|EQS05689.1| hypothetical protein G797_00001, partial [Escherichia coli HVH 139 (4-3192644)] &gt;gb|EQS18092.1| hypothetical protein G801_00001, partial [Escherichia coli HVH 143 (4-5674999)] &gt;gb|EQS29509.1| hypothetical protein G802_00001, partial [Escherichia coli HVH 144 (4-4451937)] &gt;gb|EQS34704.1| hypothetical protein G805_01608, partial [Escherichia coli HVH 147 (4-5893887)] &gt;gb|EQS42442.1| hypothetical protein G807_00001, partial [Escherichia coli HVH 149 (4-4451880)] &gt;gb|EQS55599.1| hypothetical protein G811_00001, partial [Escherichia coli HVH 153 (3-9344314)] &gt;gb|EQS59669.1| hypothetical protein G808_00001, partial [Escherichia coli HVH 150 (4-3258106)] &gt;gb|EQS61139.1| hypothetical protein G816_02630, partial [Escherichia coli HVH 158 (4-3224287)] &gt;gb|EQS83833.1| hypothetical protein G822_03220, partial [Escherichia coli HVH 164 (4-5953081)] &gt;gb|EQT02890.1| hypothetical protein G824_00258, partial [Escherichia coli HVH 169 (4-1075578)] &gt;gb|EQT04606.1| hypothetical protein G826_00199, partial [Escherichia coli HVH 171 (4-3191958)] &gt;gb|EQT32401.1| hypothetical protein G833_00001, partial [Escherichia coli HVH 180 (4-3051617)] &gt;gb|EQT44856.1| hypothetical protein G834_00001, partial [Escherichia coli HVH 182 (4-0985554)] &gt;gb|EQT49296.1| hypothetical protein G836_00001, partial [Escherichia coli HVH 184 (4-3343286)] &gt;gb|EQT54787.1| hypothetical protein G837_00001, partial [Escherichia coli HVH 185 (4-2876639)] &gt;gb|EQT64332.1| hypothetical protein G840_00001, partial [Escherichia coli HVH 188 (4-2356988)] &gt;gb|EQT67597.1| hypothetical protein G839_00139, partial [Escherichia coli HVH 187 (4-4471660)] &gt;gb|EQT94250.1| hypothetical protein G845_00001, partial [Escherichia coli HVH 193 (4-3331423)] &gt;gb|EQT98219.1| hypothetical protein G846_01626, partial [Escherichia coli HVH 194 (4-2356805)] &gt;gb|EQU03389.1| hypothetical protein G847_00198, partial [Escherichia coli HVH 195 (3-7155360)] &gt;gb|EQU17354.1| hypothetical protein G850_00001, partial [Escherichia coli HVH 198 (4-3206106)] &gt;gb|EQU32954.1| hypothetical protein G852_00196, partial [Escherichia coli HVH 200 (4-4449924)] &gt;gb|EQU38167.1| hypothetical protein G855_00001, partial [Escherichia coli HVH 203 (4-3126218)] &gt;gb|EQU46968.1| hypothetical protein G856_00001, partial [Escherichia coli HVH 204 (4-3112802)] &gt;gb|EQU62306.1| hypothetical protein G859_00254, partial [Escherichia coli HVH 207 (4-3113221)] &gt;gb|EQU64191.1| hypothetical protein G860_00001, partial [Escherichia coli HVH 208 (4-3112292)] &gt;gb|EQU81672.1| hypothetical protein G864_00211, partial [Escherichia coli HVH 212 (3-9305343)] &gt;gb|EQU99984.1| hypothetical protein G868_00208, partial [Escherichia coli HVH 216 (4-3042952)] &gt;gb|EQV05062.1| hypothetical protein G870_00214, partial [Escherichia coli HVH 218 (4-4500903)] &gt;gb|EQV13365.1| hypothetical protein G871_00001, partial [Escherichia coli HVH 220 (4-5876842)] &gt;gb|EQV17373.1| hypothetical protein G872_00001, partial [Escherichia coli HVH 221 (4-3136817)] &gt;gb|EQV27059.1| hypothetical protein G874_00001, partial [Escherichia coli HVH 223 (4-2976528)] &gt;gb|EQV31455.1| hypothetical protein G876_00001, partial [Escherichia coli HVH 227 (4-2277670)] &gt;gb|EQV34576.1| hypothetical protein G881_01477, partial [Escherichia coli KOEGE 30 (63a)] &gt;gb|EQV37961.1| hypothetical protein G875_00001, partial [Escherichia coli HVH 225 (4-1273116)] &gt;gb|EQV42565.1| hypothetical protein G884_03804, partial [Escherichia coli KOEGE 40 (102a)] &gt;gb|EQV50610.1| hypothetical protein G883_00571, partial [Escherichia coli KOEGE 33 (68a)] &gt;gb|EQV59155.1| hypothetical protein G885_00208, partial [Escherichia coli KOEGE 43 (105a)] &gt;gb|EQV60661.1| hypothetical protein G886_00001, partial [Escherichia coli KOEGE 44 (106a)] &gt;gb|EQV73147.1| hypothetical protein G888_01171, partial [Escherichia coli KOEGE 58 (171a)] &gt;gb|EQV73211.1| hypothetical protein G889_00061, partial [Escherichia coli KOEGE 61 (174a)] &gt;gb|EQV74910.1| hypothetical protein G887_00224, partial [Escherichia coli KOEGE 56 (169a)] &gt;gb|EQV92013.1| hypothetical protein G892_00201, partial [Escherichia coli KOEGE 70 (185a)] &gt;gb|EQV99576.1| hypothetical protein G896_03941, partial [Escherichia coli KOEGE 118 (317a)] &gt;gb|EQW17329.1| hypothetical protein G897_00001, partial [Escherichia coli KOEGE 131 (358a)] &gt;gb|EQW22883.1| hypothetical protein G899_00001, partial [Escherichia coli UMEA 3022-1] &gt;gb|EQW24287.1| hypothetical protein G898_00001, partial [Escherichia coli UMEA 3014-1] &gt;gb|EQW47314.1| hypothetical protein G904_00817, partial [Escherichia coli UMEA 3065-1] &gt;gb|EQW47629.1| hypothetical protein G903_00248, partial [Escherichia coli UMEA 3053-1] &gt;gb|EQW55426.1| hypothetical protein G905_00495, partial [Escherichia coli UMEA 3087-1] &gt;gb|EQW59068.1| hypothetical protein G907_00001, partial [Escherichia coli UMEA 3097-1] &gt;gb|EQW67947.1| hypothetical protein G906_00001, partial [Escherichia coli UMEA 3088-1] &gt;gb|EQW73309.1| hypothetical protein G909_00200, partial [Escherichia coli UMEA 3113-1] &gt;gb|EQW73669.1| hypothetical protein G910_03218, partial [Escherichia coli UMEA 3117-1] &gt;gb|EQW84097.1| hypothetical protein G911_00001, partial [Escherichia coli UMEA 3121-1] &gt;gb|EQX04138.1| hypothetical protein G920_00202, partial [Escherichia coli UMEA 3152-1] &gt;gb|EQX15357.1| hypothetical protein G922_00213, partial [Escherichia coli UMEA 3159-1] &gt;gb|EQX21671.1| hypothetical protein G923_01603, partial [Escherichia coli UMEA 3160-1] &gt;gb|EQX23814.1| hypothetical protein G924_00001, partial [Escherichia coli UMEA 3161-1] &gt;gb|EQX37775.1| hypothetical protein G926_00001, partial [Escherichia coli UMEA 3163-1] &gt;gb|EQX39237.1| hypothetical protein G927_00211, partial [Escherichia coli UMEA 3172-1] &gt;gb|EQX48678.1| hypothetical protein G928_00208, partial [Escherichia coli UMEA 3173-1] &gt;gb|EQX48816.1| hypothetical protein G930_00001, partial [Escherichia coli UMEA 3175-1] &gt;gb|EQX60814.1| hypothetical protein G929_00001, partial [Escherichia coli UMEA 3174-1] &gt;gb|EQX61144.1| hypothetical protein G931_00001, partial [Escherichia coli UMEA 3176-1] &gt;gb|EQX63643.1| hypothetical protein G932_00001, partial [Escherichia coli UMEA 3178-1] &gt;gb|EQX67898.1| hypothetical protein G933_03071, partial [Escherichia coli UMEA 3180-1] &gt;gb|EQX68677.1| hypothetical protein G934_01076, partial [Escherichia coli UMEA 3185-1] &gt;gb|EQX79923.1| hypothetical protein G936_00200, partial [Escherichia coli UMEA 3193-1] &gt;gb|EQX88916.1| hypothetical protein G937_00001, partial [Escherichia coli UMEA 3199-1] &gt;gb|EQX91043.1| hypothetical protein G938_00001, partial [Escherichia coli UMEA 3200-1] &gt;gb|EQY14444.1| hypothetical protein G942_00208, partial [Escherichia coli UMEA 3208-1] &gt;gb|EQY28798.1| hypothetical protein G946_02614, partial [Escherichia coli UMEA 3217-1] &gt;gb|EQY36058.1| hypothetical protein G947_00001, partial [Escherichia coli UMEA 3220-1] &gt;gb|EQY49261.1| hypothetical protein G949_00001, partial [Escherichia coli UMEA 3222-1] &gt;gb|EQY49752.1| hypothetical protein G950_00001, partial [Escherichia coli UMEA 3230-1] &gt;gb|EQY49812.1| hypothetical protein G948_00001, partial [Escherichia coli UMEA 3221-1] &gt;gb|EQY61371.1| hypothetical protein G953_00200, partial [Escherichia coli UMEA 3244-1] &gt;gb|EQY73396.1| hypothetical protein G956_00258, partial [Escherichia coli UMEA 3264-1] &gt;gb|EQY76500.1| hypothetical protein G955_00208, partial [Escherichia coli UMEA 3257-1] &gt;gb|EQY80021.1| hypothetical protein G957_00001, partial [Escherichia coli UMEA 3268-1] &gt;gb|EQY94124.1| hypothetical protein G963_00001, partial [Escherichia coli UMEA 3314-1] &gt;gb|EQZ05551.1| hypothetical protein G967_00198, partial [Escherichia coli UMEA 3329-1] &gt;gb|EQZ06362.1| hypothetical protein G965_00001, partial [Escherichia coli UMEA 3318-1] &gt;gb|EQZ07943.1| hypothetical protein G969_00001, partial [Escherichia coli UMEA 3337-1] &gt;gb|EQZ17130.1| hypothetical protein G970_00001, partial [Escherichia coli UMEA 3341-1] &gt;gb|EQZ22582.1| hypothetical protein G972_00001, partial [Escherichia coli UMEA 3355-1] &gt;gb|EQZ25844.1| hypothetical protein G973_00001, partial [Escherichia coli UMEA 3391-1] &gt;gb|EQZ32340.1| hypothetical protein G976_00001, partial [Escherichia coli UMEA 3490-1] &gt;gb|EQZ44045.1| hypothetical protein G980_00205, partial [Escherichia coli UMEA 3617-1] &gt;gb|EQZ45544.1| hypothetical protein G978_00001, partial [Escherichia coli UMEA 3592-1] &gt;gb|EQZ46992.1| hypothetical protein G979_00001, partial [Escherichia coli UMEA 3609-1] &gt;gb|EQZ60793.1| hypothetical protein G984_00001, partial [Escherichia coli UMEA 3662-1] &gt;gb|EQZ71265.1| hypothetical protein G986_00001, partial [Escherichia coli UMEA 3682-1] &gt;gb|EQZ82626.1| hypothetical protein G987_00208, partial [Escherichia coli UMEA 3687-1] &gt;gb|EQZ83279.1| hypothetical protein G990_00001, partial [Escherichia coli UMEA 3702-1] &gt;gb|EQZ83480.1| hypothetical protein G989_00001, partial [Escherichia coli UMEA 3694-1] &gt;gb|EQZ93266.1| hypothetical protein G993_00001, partial [Escherichia coli UMEA 3707-1] &gt;gb|EQZ99219.1| hypothetical protein G991_00001, partial [Escherichia coli UMEA 3703-1] &gt;gb|ERA01827.1| hypothetical protein G992_00001, partial [Escherichia coli UMEA 3705-1] &gt;gb|ERA12795.1| hypothetical protein G996_00001, partial [Escherichia coli UMEA 3821-1] &gt;gb|ERA24582.1| hypothetical protein G998_00001, partial [Escherichia coli UMEA 3889-1] &gt;gb|ERA39228.1| hypothetical protein H001_00202, partial [Escherichia coli UMEA 3955-1] &gt;gb|ERA40243.1| hypothetical protein H002_00001, partial [Escherichia coli UMEA 4075-1] &gt;gb|ERA49280.1| hypothetical protein H004_00261, partial [Escherichia coli UMEA 4207-1] &gt;gb|ERA52187.1| hypothetical protein H003_00001, partial [Escherichia coli UMEA 4076-1] &gt;gb|ERA78097.1| hypothetical protein G814_00212, partial [Escherichia coli HVH 156 (4-3206505)] &gt;gb|ERA81905.1| hypothetical protein G815_00001, partial [Escherichia coli HVH 157 (4-3406229)] &gt;gb|ERA84197.1| hypothetical protein G817_00001, partial [Escherichia coli HVH 159 (4-5818141)] &gt;gb|ERA92353.1| hypothetical protein G818_00001, partial [Escherichia coli HVH 160 (4-5695937)] &gt;gb|ERA96973.1| hypothetical protein G877_00200, partial [Escherichia coli HVH 228 (4-7787030)] &gt;gb|ERB06682.1| hypothetical protein G878_00193, partial [Escherichia coli KOEGE 3 (4a)] &gt;gb|ERB10412.1| hypothetical protein G879_00001, partial [Escherichia coli KOEGE 7 (16a)] &gt;gb|ERB11962.1| hypothetical protein G880_00203, partial [Escherichia coli KOEGE 10 (25a)] &gt;gb|ERB22509.1| hypothetical protein G916_00001, partial [Escherichia coli UMEA 3144-1] &gt;gb|ERB39430.1| hypothetical protein G960_00001, partial [Escherichia coli UMEA 3292-1] &gt;gb|ERF50780.1| hypothetical protein G982_04459, partial [Escherichia coli UMEA 3652-1] &gt;gb|ERO94831.1| hypothetical protein L454_00001, partial [Escherichia coli BIDMC 19C] &gt;gb|ESK10090.1| hypothetical protein G968_00200, partial [Escherichia coli UMEA 3336-1] &gt;gb|ESK10914.1| hypothetical protein G759_00202, partial [Escherichia coli HVH 98 (4-5799287)] &gt;gb|ESK19648.1| hypothetical protein G959_01476, partial [Escherichia coli UMEA 3290-1] &gt;gb|ESK33030.1| hypothetical protein G971_00001, partial [Escherichia coli UMEA 3342-1] &gt;gb|ESK33843.1| hypothetical protein G988_00522, partial [Escherichia coli UMEA 3693-1] &gt;gb|ESL40768.1| hypothetical protein L474_01440, partial [Escherichia coli BIDMC 37] &gt;gb|ESP09948.1| hypothetical protein G711_01109, partial [Escherichia coli HVH 36 (4-5675286)] &gt;gb|ESP19395.1| hypothetical protein G794_01499, partial [Escherichia coli HVH 136 (4-5970458)] &gt;gb|ESP26392.1| hypothetical protein G748_00001, partial [Escherichia coli HVH 86 (4-7026218)] &gt;gb|ESP49907.1| hypothetical protein G917_00344, partial [Escherichia coli UMEA 3148-1] &gt;gb|ETF16135.1| hypothetical protein G745_04301, partial [Escherichia coli HVH 83 (4-2051087)] &gt;gb|ETF17933.1| hypothetical protein G699_04018, partial [Escherichia coli HVH 23 (4-6066488)] &gt;gb|ETX75896.1| hypothetical protein P804_03385, partial [Escherichia coli BIDMC 43b] &gt;gb|ETY18525.1| hypothetical protein L446_04299, partial [Escherichia coli BIDMC 17A] &gt;gb|ETY21316.1| hypothetical protein L444_08825, partial [Escherichia coli BIDMC 15] &gt;gb|ETY65724.1| hypothetical protein L432_04306, partial [Escherichia coli BIDMC 6] &gt;gb|EYT05444.1| hypothetical protein T654_03699, partial [Escherichia coli K02] &gt;gb|KDG12323.1| hypothetical protein AE48_03198, partial [Escherichia coli BIDMC 73] &gt;gb|KDG14189.1| hypothetical protein AE49_04265, partial [Escherichia coli BIDMC 74] &gt;gb|KDG60684.1| hypothetical protein AF33_00001, partial [Escherichia coli CHS 77] &gt;gb|KDG68522.1| hypothetical protein AF43_00001, partial [Escherichia coli MGH 57] &gt;gb|KDG73188.1| hypothetical protein AE12_04171, partial [Escherichia coli UCI 53] &gt;gb|KDG80688.1| hypothetical protein AE16_04317, partial [Escherichia coli UCI 57] &gt;gb|KDH03798.1| hypothetical protein AE25_00001, partial [Escherichia coli UCI 66] &gt;gb|KLX36720.1| hypothetical protein SK73_00001, partial [Escherichia coli]</Hit_def>
+  <Hit_accession>EQN08915</Hit_accession>
+  <Hit_len>31</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>62.3882</Hsp_bit-score>
+      <Hsp_score>150</Hsp_score>
+      <Hsp_evalue>1.53859e-11</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>31</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gb|EQN57353.1|</Hit_id>
+  <Hit_def>hypothetical protein G693_00216, partial [Escherichia coli HVH 17 (4-7473087)] &gt;gb|EQP97642.1| hypothetical protein G746_00001, partial [Escherichia coli HVH 84 (4-1021478)] &gt;gb|EQQ17428.1| hypothetical protein G752_00902, partial [Escherichia coli HVH 90 (4-3191362)] &gt;gb|EQS06970.1| hypothetical protein G799_01151, partial [Escherichia coli HVH 141 (4-5995973)] &gt;gb|EQS40863.1| hypothetical protein G804_00905, partial [Escherichia coli HVH 146 (4-3189767)] &gt;gb|EQS73581.1| hypothetical protein G812_00001, partial [Escherichia coli HVH 154 (4-5636698)] &gt;gb|EQS86946.1| hypothetical protein G820_00481, partial [Escherichia coli HVH 162 (4-5627982)] &gt;gb|EQT30462.1| hypothetical protein G830_00001, partial [Escherichia coli HVH 176 (4-3428664)] &gt;gb|EQT65205.1| hypothetical protein G838_00001, partial [Escherichia coli HVH 186 (4-3405044)] &gt;gb|EQU41742.1| hypothetical protein G854_00211, partial [Escherichia coli HVH 202 (4-3163997)] &gt;gb|EQU55905.1| hypothetical protein G857_00976, partial [Escherichia coli HVH 205 (4-3094677)] &gt;gb|EQW68808.1| hypothetical protein G908_00509, partial [Escherichia coli UMEA 3108-1] &gt;gb|ESL44678.1| hypothetical protein L475_00001, partial [Escherichia coli BIDMC 38] &gt;gb|ESP49011.1| hypothetical protein G769_00318, partial [Escherichia coli HVH 108 (4-6924867)] &gt;gb|ETF14070.1| hypothetical protein G831_04481, partial [Escherichia coli HVH 177 (4-2876612)] &gt;gb|ETX94426.1| hypothetical protein L456_00001, partial [Escherichia coli BIDMC 20B] &gt;gb|ETX97981.1| hypothetical protein L455_04315, partial [Escherichia coli BIDMC 20A] &gt;gb|KDG22328.1| hypothetical protein AE50_04029, partial [Escherichia coli BIDMC 75] &gt;gb|KDG24424.1| hypothetical protein AE51_04216, partial [Escherichia coli BIDMC 76] &gt;gb|KLX26672.1| hypothetical protein SK70_00001, partial [Escherichia coli]</Hit_def>
+  <Hit_accession>EQN57353</Hit_accession>
+  <Hit_len>38</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>62.003</Hsp_bit-score>
+      <Hsp_score>149</Hsp_score>
+      <Hsp_evalue>2.63736e-11</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>31</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>LFILTATGNMSLCGLKKECLIAASELVTCRD</Hsp_hseq>
+      <Hsp_midline>LFILTATGNMSLCGLKKECLIAASELVTCR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gb|OSK35400.1|</Hit_id>
+  <Hit_def>putative tRNA/tRNA methyltransferase [Escherichia coli B108]</Hit_def>
+  <Hit_accession>OSK35400</Hit_accession>
+  <Hit_len>269</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>65.0846</Hsp_bit-score>
+      <Hsp_score>157</Hsp_score>
+      <Hsp_evalue>9.50717e-11</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>239</Hsp_hit-from>
+      <Hsp_hit-to>269</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>emb|CDL29793.1|</Hit_id>
+  <Hit_def>RNA methyltransferase, TrmH family, group 1 [Escherichia coli ISC7]</Hit_def>
+  <Hit_accession>CDL29793</Hit_accession>
+  <Hit_len>268</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>65.0846</Hsp_bit-score>
+      <Hsp_score>157</Hsp_score>
+      <Hsp_evalue>9.6253e-11</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>268</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gb|EFZ57066.1|</Hit_id>
+  <Hit_def>hypothetical protein ECLT68_4062 [Escherichia coli LT-68] &gt;gb|EHW16743.1| RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC8A] &gt;gb|EHW48534.1| RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC9E]</Hit_def>
+  <Hit_accession>EFZ57066</Hit_accession>
+  <Hit_len>268</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>65.0846</Hsp_bit-score>
+      <Hsp_score>157</Hsp_score>
+      <Hsp_evalue>9.92636e-11</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>268</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gb|EIQ34157.1|</Hit_id>
+  <Hit_def>RNA methyltransferase, TrmH, group 1 family protein [Shigella flexneri K-404]</Hit_def>
+  <Hit_accession>EIQ34157</Hit_accession>
+  <Hit_len>268</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>65.0846</Hsp_bit-score>
+      <Hsp_score>157</Hsp_score>
+      <Hsp_evalue>9.92636e-11</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>268</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gb|AGW11941.1|</Hit_id>
+  <Hit_def>RNA methyltransferase [Escherichia coli LY180]</Hit_def>
+  <Hit_accession>AGW11941</Hit_accession>
+  <Hit_len>252</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>64.3142</Hsp_bit-score>
+      <Hsp_score>155</Hsp_score>
+      <Hsp_evalue>1.79168e-10</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>222</Hsp_hit-from>
+      <Hsp_hit-to>252</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gb|EHU32437.1|</Hit_id>
+  <Hit_def>RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC1E] &gt;gb|EHU33873.1| RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC2A]</Hit_def>
+  <Hit_accession>EHU32437</Hit_accession>
+  <Hit_len>268</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>63.1586</Hsp_bit-score>
+      <Hsp_score>152</Hsp_score>
+      <Hsp_evalue>4.96112e-10</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>268</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>30</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>LFILPATGNMSLCGLKKECLIAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>LFIL ATGNMSLCGLKKECLIAASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gb|EHU86177.1|</Hit_id>
+  <Hit_def>hypothetical protein ECDEC4A_5430 [Escherichia coli DEC4A]</Hit_def>
+  <Hit_accession>EHU86177</Hit_accession>
+  <Hit_len>49</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.9214</Hsp_bit-score>
+      <Hsp_score>141</Hsp_score>
+      <Hsp_evalue>5.07883e-10</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>29</Hsp_identity>
+      <Hsp_positive>29</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>LFILTATGNMSLCGLKKESLTAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>LFILTATGNMSLCGLKKE L AASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gb|EFX11392.1|</Hit_id>
+  <Hit_def>hypothetical protein ECO5101_24101, partial [Escherichia coli O157:H7 str. G5101] &gt;gb|EFX16198.1| hypothetical protein ECO9389_23936, partial [Escherichia coli O157:H- str. 493-89] &gt;gb|EFX20975.1| hypothetical protein ECO2687_23918, partial [Escherichia coli O157:H- str. H 2687] &gt;gb|EFX25856.1| hypothetical protein ECO7815_23446, partial [Escherichia coli O55:H7 str. 3256-97] &gt;gb|EFX30720.1| hypothetical protein ECO5905_23196, partial [Escherichia coli O55:H7 str. USDA 5905] &gt;gb|EFX35543.1| hypothetical protein ECOSU61_23563, partial [Escherichia coli O157:H7 str. LSU-61] &gt;gb|EQW95708.1| hypothetical protein G913_00001, partial [Escherichia coli UMEA 3124-1] &gt;gb|EQZ70791.1| hypothetical protein G985_00349, partial [Escherichia coli UMEA 3671-1] &gt;gb|ESM43015.1| hypothetical protein L403_00001, partial [Escherichia coli BWH 32] &gt;gb|OYB56773.1| hypothetical protein RX06_01087, partial [Escherichia coli]</Hit_def>
+  <Hit_accession>EFX11392</Hit_accession>
+  <Hit_len>31</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>9.58565e-10</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>31</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>29</Hsp_identity>
+      <Hsp_positive>29</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>LFILTATGNMSLCGLKKESLTAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>LFILTATGNMSLCGLKKE L AASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>emb|STL92753.1|</Hit_id>
+  <Hit_def>RNA methyltransferase [Escherichia coli]</Hit_def>
+  <Hit_accession>STL92753</Hit_accession>
+  <Hit_len>49</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.6102</Hsp_bit-score>
+      <Hsp_score>135</Hsp_score>
+      <Hsp_evalue>3.91893e-09</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>49</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>28</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>LFILTAMGNMSLCGLKKESLTAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>LFILTA GNMSLCGLKKE L AASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gb|EGD8161130.1|</Hit_id>
+  <Hit_def>tRNA/rRNA methyltransferase [Escherichia coli] &gt;gb|EGD8764124.1| tRNA/rRNA methyltransferase [Escherichia coli] &gt;gb|EGE0611947.1| tRNA/rRNA methyltransferase [Escherichia coli] &gt;gb|EGE0737525.1| tRNA/rRNA methyltransferase [Escherichia coli]</Hit_def>
+  <Hit_accession>EGD8161130</Hit_accession>
+  <Hit_len>269</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.077</Hsp_bit-score>
+      <Hsp_score>144</Hsp_score>
+      <Hsp_evalue>6.52832e-09</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>239</Hsp_hit-from>
+      <Hsp_hit-to>269</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>29</Hsp_identity>
+      <Hsp_positive>29</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>LFILTATGNMSLCGLKKESLTAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>LFILTATGNMSLCGLKKE L AASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gb|EQR96207.1|</Hit_id>
+  <Hit_def>hypothetical protein G796_00658, partial [Escherichia coli HVH 138 (4-6066704)] &gt;gb|EQU64031.1| hypothetical protein G861_03873, partial [Escherichia coli HVH 209 (4-3062651)] &gt;gb|EQW41727.1| hypothetical protein G902_00341, partial [Escherichia coli UMEA 3052-1] &gt;gb|EQX01314.1| hypothetical protein G914_00001, partial [Escherichia coli UMEA 3139-1] &gt;gb|EQY27615.1| hypothetical protein G943_00820, partial [Escherichia coli UMEA 3212-1] &gt;gb|EQY83068.1| hypothetical protein G964_03844, partial [Escherichia coli UMEA 3317-1] &gt;gb|ERB14672.1| hypothetical protein G918_03920, partial [Escherichia coli UMEA 3150-1] &gt;gb|ERB23222.1| hypothetical protein G919_01583, partial [Escherichia coli UMEA 3151-1] &gt;gb|ERB35144.1| hypothetical protein G958_00195, partial [Escherichia coli UMEA 3271-1] &gt;gb|ESL26845.1| hypothetical protein L476_00001, partial [Escherichia coli BIDMC 39] &gt;gb|KDG00010.1| hypothetical protein AE46_04122, partial [Escherichia coli BIDMC 71] &gt;gb|KLW96288.1| hypothetical protein SK64_04312, partial [Escherichia coli]</Hit_def>
+  <Hit_accession>EQR96207</Hit_accession>
+  <Hit_len>31</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.8398</Hsp_bit-score>
+      <Hsp_score>133</Hsp_score>
+      <Hsp_evalue>6.92883e-09</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>31</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>28</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>LFILTAMGNMSLCGLKKESLTAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>LFILTA GNMSLCGLKKE L AASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>emb|STD95236.1|</Hit_id>
+  <Hit_def>RNA methyltransferase [Escherichia coli]</Hit_def>
+  <Hit_accession>STD95236</Hit_accession>
+  <Hit_len>269</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.151</Hsp_bit-score>
+      <Hsp_score>139</Hsp_score>
+      <Hsp_evalue>3.48319e-08</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>239</Hsp_hit-from>
+      <Hsp_hit-to>269</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>28</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>LFILTAMGNMSLCGLKKESLTAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>LFILTA GNMSLCGLKKE L AASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gb|EHV78810.1|</Hit_id>
+  <Hit_def>RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC6D]</Hit_def>
+  <Hit_accession>EHV78810</Hit_accession>
+  <Hit_len>268</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>4.4178e-08</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>268</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>28</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>31</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>LFILTAMGNMSLCGLKKESLTAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>LFILTA GNMSLCGLKKE L AASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gb|EHU79378.1|</Hit_id>
+  <Hit_def>RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC3C]</Hit_def>
+  <Hit_accession>EHU79378</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>4.92093e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>261</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>gb|EGK30799.1|</Hit_id>
+  <Hit_def>hypothetical protein SFK272_0343 [Shigella flexneri K-272]</Hit_def>
+  <Hit_accession>EGK30799</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>4.92093e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>261</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>gb|EHU97602.1|</Hit_id>
+  <Hit_def>RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC3F]</Hit_def>
+  <Hit_accession>EHU97602</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>4.92093e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>261</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gb|EGE2516352.1|</Hit_id>
+  <Hit_def>tRNA/rRNA methyltransferase [Shigella dysenteriae] &gt;gb|MLU11315.1| tRNA/rRNA methyltransferase [Shigella dysenteriae]</Hit_def>
+  <Hit_accession>EGE2516352</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>4.92093e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>261</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>gb|OYJ16353.1|</Hit_id>
+  <Hit_def>tRNA/rRNA methyltransferase [Escherichia coli]</Hit_def>
+  <Hit_accession>OYJ16353</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>4.97118e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>261</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>gb|EHW02933.1|</Hit_id>
+  <Hit_def>RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC8B] &gt;gb|EHW46913.1| RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC9D] &gt;gb|EHW71999.1| RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC10D] &gt;gb|EHW80097.1| RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC10B] &gt;gb|EHW96331.1| RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC10E] &gt;gb|KRR57328.1| putative RNA methyltransferase [Escherichia coli VL2874] &gt;gb|TGF70443.1| tRNA/rRNA methyltransferase [Escherichia coli]</Hit_def>
+  <Hit_accession>EHW02933</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>4.97118e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>261</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>gb|EIQ57870.1|</Hit_id>
+  <Hit_def>RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli EPECa12] &gt;gb|KYZ94122.1| RNA methyltransferase [Escherichia coli]</Hit_def>
+  <Hit_accession>EIQ57870</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>5.02193e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>261</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gb|RJJ89301.1|</Hit_id>
+  <Hit_def>tRNA/rRNA methyltransferase [Escherichia coli] &gt;gb|RJJ98206.1| tRNA/rRNA methyltransferase [Escherichia coli]</Hit_def>
+  <Hit_accession>RJJ89301</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>5.125e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>261</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gb|EGK41581.1|</Hit_id>
+  <Hit_def>hypothetical protein SFK304_0112 [Shigella flexneri K-304] &gt;gb|EGM58912.1| RNA methyltransferase, TrmH, group 1 family protein [Shigella flexneri SFJ17B] &gt;gb|EGW78086.1| hypothetical protein EC30301_5208 [Escherichia coli 3030-1] &gt;gb|EGW87067.1| hypothetical protein ECSTEC94C_0009 [Escherichia coli STEC_94C] &gt;gb|EIQ14466.1| RNA methyltransferase, TrmH, group 1 family protein [Shigella flexneri 2850-71] &gt;gb|EJL09828.1| RNA methyltransferase, TrmH, group 1 family protein [Shigella flexneri 6603-63]</Hit_def>
+  <Hit_accession>EGK41581</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>5.125e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>261</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>gb|EHX15233.1|</Hit_id>
+  <Hit_def>RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC11D] &gt;gb|EHX23875.1| RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC12C] &gt;gb|EHX37139.1| RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC12A] &gt;gb|EHX37508.1| RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC12B]</Hit_def>
+  <Hit_accession>EHX15233</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>5.392e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>261</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>gb|RJK44785.1|</Hit_id>
+  <Hit_def>tRNA/rRNA methyltransferase [Escherichia coli]</Hit_def>
+  <Hit_accession>RJK44785</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>5.67287e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>261</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>gb|EIQ22134.1|</Hit_id>
+  <Hit_def>RNA methyltransferase, TrmH, group 1 family protein [Shigella boydii 965-58] &gt;gb|EIQ49115.1| RNA methyltransferase, TrmH, group 1 family protein [Shigella sonnei 3226-85]</Hit_def>
+  <Hit_accession>EIQ22134</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>5.67287e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>261</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>gb|EGJ79339.1|</Hit_id>
+  <Hit_def>hypothetical protein SF434370_4804 [Shigella flexneri 4343-70]</Hit_def>
+  <Hit_accession>EGJ79339</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>5.67287e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>261</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>gb|EII76318.1|</Hit_id>
+  <Hit_def>RNA methyltransferase, TrmH family, group 1 [Escherichia coli 3.2303]</Hit_def>
+  <Hit_accession>EII76318</Hit_accession>
+  <Hit_len>268</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>5.89656e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>245</Hsp_hit-from>
+      <Hsp_hit-to>268</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>gb|EHV65697.1|</Hit_id>
+  <Hit_def>RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC6B] &gt;emb|STJ82651.1| RNA methyltransferase [Escherichia coli]</Hit_def>
+  <Hit_accession>EHV65697</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>5.96834e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>261</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>gb|EGK29928.1|</Hit_id>
+  <Hit_def>hypothetical protein SFVA6_0291 [Shigella flexneri VA-6]</Hit_def>
+  <Hit_accession>EGK29928</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.3806</Hsp_bit-score>
+      <Hsp_score>137</Hsp_score>
+      <Hsp_evalue>6.40796e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>261</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>gb|EIN65069.1|</Hit_id>
+  <Hit_def>hypothetical protein ECPA3_0088 [Escherichia coli PA3] &gt;gb|EIP03238.1| hypothetical protein ECTW14313_5664 [Escherichia coli O157:H7 str. TW14313] &gt;gb|EIP34055.1| hypothetical protein ECEC4422_0127 [Escherichia coli EC4422] &gt;gb|EIP38968.1| hypothetical protein ECEC4013_0194 [Escherichia coli EC4013] &gt;gb|EIP71259.1| hypothetical protein ECEC4437_0087 [Escherichia coli EC4437] &gt;gb|EKH21030.1| hypothetical protein ECPA34_0129 [Escherichia coli PA34] &gt;gb|EKH25398.1| hypothetical protein ECFDA506_0452 [Escherichia coli FDA506] &gt;gb|EKH43358.1| hypothetical protein ECFRIK1999_0115 [Escherichia coli FRIK1999] &gt;gb|EKK87779.1| hypothetical protein EC880221_0194 [Escherichia coli 88.0221] &gt;gb|EKW68126.1| hypothetical protein EC970003_0129 [Escherichia coli 97.0003] &gt;gb|EKW71285.1| hypothetical protein EC970007_5111 [Escherichia coli 97.0007] &gt;gb|ELV90574.1| hypothetical protein ECPA19_0039 [Escherichia coli PA19] &gt;gb|ELV98916.1| hypothetical protein ECPA2_0127 [Escherichia coli PA2] &gt;gb|ELW12535.1| hypothetical protein ECPA8_0126 [Escherichia coli PA8] &gt;gb|ELW23981.1| hypothetical protein EC991781_0116 [Escherichia coli 99.1781] &gt;gb|ELW27818.1| hypothetical protein EC991762_0127 [Escherichia coli 99.1762] &gt;gb|ERB89087.1| hypothetical protein QYC_0129 [Escherichia coli B102] &gt;gb|ERD40345.1| hypothetical protein S1O_5143 [Escherichia coli B15] &gt;gb|ERD73484.1| hypothetical protein S3A_0129 [Escherichia coli B49-2] &gt;gb|ERE45524.1| hypothetical protein B231_0199 [Escherichia coli Tx3800]</Hit_def>
+  <Hit_accession>EIN65069</Hit_accession>
+  <Hit_len>42</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.1434</Hsp_bit-score>
+      <Hsp_score>126</Hsp_score>
+      <Hsp_evalue>8.21279e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>42</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>gb|EGR76027.1|</Hit_id>
+  <Hit_def>hypothetical protein HUSEC_00005 [Escherichia coli O104:H4 str. LB226692]</Hit_def>
+  <Hit_accession>EGR76027</Hit_accession>
+  <Hit_len>48</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.1434</Hsp_bit-score>
+      <Hsp_score>126</Hsp_score>
+      <Hsp_evalue>9.39078e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>25</Hsp_hit-from>
+      <Hsp_hit-to>48</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>gb|EFJ75287.1|</Hit_id>
+  <Hit_def>hypothetical protein HMPREF9552_01062 [Escherichia coli MS 198-1] &gt;gb|EFJ86303.1| hypothetical protein HMPREF9536_03417 [Escherichia coli MS 84-1] &gt;gb|EFJ98003.1| hypothetical protein HMPREF9540_01908 [Escherichia coli MS 115-1] &gt;gb|EFK44157.1| hypothetical protein HMPREF9346_04315 [Escherichia coli MS 119-7] &gt;gb|EFO58067.1| hypothetical protein HMPREF9348_02897 [Escherichia coli MS 145-7] &gt;gb|EIP40131.1| hypothetical protein ECEC4436_5686 [Escherichia coli EC4436] &gt;gb|EKK61204.1| hypothetical protein EC80586_0131 [Escherichia coli 8.0586] &gt;gb|EKK71880.1| hypothetical protein EC80416_5298 [Escherichia coli 8.0416] &gt;gb|EKV88881.1| hypothetical protein EC881467_0126 [Escherichia coli 88.1467] &gt;gb|ELV30973.1| hypothetical protein EC990839_5175 [Escherichia coli 99.0839] &gt;gb|ELV47117.1| hypothetical protein EC991775_5074 [Escherichia coli 99.1775] &gt;gb|ELV62576.1| hypothetical protein EC991793_0119 [Escherichia coli 99.1793] &gt;gb|ESA64693.1| hypothetical protein HMPREF1589_04361 [Escherichia coli 113290] &gt;gb|ESA92161.1| hypothetical protein HMPREF1599_01321 [Escherichia coli 907713] &gt;gb|ESA94068.1| hypothetical protein HMPREF1620_02689 [Escherichia coli 909945-2] &gt;gb|ESD27157.1| hypothetical protein HMPREF1600_02153 [Escherichia coli 907715] &gt;gb|ESD57296.1| hypothetical protein HMPREF1605_00996 [Escherichia coli 908521] &gt;gb|ESD66814.1| hypothetical protein HMPREF1609_04920 [Escherichia coli 908541] &gt;gb|ESD90423.1| hypothetical protein HMPREF1612_02347 [Escherichia coli 908585] &gt;gb|ESE05606.1| hypothetical protein HMPREF1616_02426 [Escherichia coli 908658] &gt;gb|KXG98619.1| hypothetical protein HMPREF3040_02426 [Escherichia coli]</Hit_def>
+  <Hit_accession>EFJ75287</Hit_accession>
+  <Hit_len>40</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.1434</Hsp_bit-score>
+      <Hsp_score>126</Hsp_score>
+      <Hsp_evalue>9.84649e-08</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>40</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>24</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gb|EHU29870.1|</Hit_id>
+  <Hit_def>RNA methyltransferase, TrmH, group 1 family protein [Escherichia coli DEC1D]</Hit_def>
+  <Hit_accession>EHU29870</Hit_accession>
+  <Hit_len>261</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>54.6842</Hsp_bit-score>
+      <Hsp_score>130</Hsp_score>
+      <Hsp_evalue>7.05716e-07</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>261</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>23</Hsp_identity>
+      <Hsp_positive>23</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFHSACNGQYVSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AFHS CNGQYVSVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gb|EIQ20889.1|</Hit_id>
+  <Hit_def>RNA methyltransferase, TrmH, group 1 family protein [Shigella flexneri K-1770]</Hit_def>
+  <Hit_accession>EIQ20889</Hit_accession>
+  <Hit_len>268</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>43.8986</Hsp_bit-score>
+      <Hsp_score>102</Hsp_score>
+      <Hsp_evalue>2.40189e-06</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>52</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>254</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>17</Hsp_identity>
+      <Hsp_positive>17</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>17</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKK</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIKK</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIKK</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>37.7354</Hsp_bit-score>
+      <Hsp_score>86</Hsp_score>
+      <Hsp_evalue>2.40189e-06</Hsp_evalue>
+      <Hsp_query-from>45</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>252</Hsp_hit-from>
+      <Hsp_hit-to>268</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>16</Hsp_identity>
+      <Hsp_positive>17</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>17</Hsp_align-len>
+      <Hsp_qseq>LKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>IKKECLIAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>+KKECLIAASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>gb|MFP1590695.1|</Hit_id>
+  <Hit_def>tRNA/rRNA methyltransferase [Escherichia coli]</Hit_def>
+  <Hit_accession>MFP1590695</Hit_accession>
+  <Hit_len>260</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>50.447</Hsp_bit-score>
+      <Hsp_score>119</Hsp_score>
+      <Hsp_evalue>2.08116e-05</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>237</Hsp_hit-from>
+      <Hsp_hit-to>260</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>24</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>AFDSDCNGQYFSVWIKKRVSDSSF</Hsp_hseq>
+      <Hsp_midline>AF SDCNGQY SVWIKKRVSDSSF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>emb|SOQ60534.1|</Hit_id>
+  <Hit_def>conserved hypothetical protein [Escherichia coli] &gt;emb|SOQ67199.1| conserved hypothetical protein [Escherichia coli]</Hit_def>
+  <Hit_accession>SOQ60534</Hit_accession>
+  <Hit_len>22</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>45.0542</Hsp_bit-score>
+      <Hsp_score>105</Hsp_score>
+      <Hsp_evalue>9.48067e-05</Hsp_evalue>
+      <Hsp_query-from>30</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>22</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>22</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>22</Hsp_align-len>
+      <Hsp_qseq>MSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>MSLCGLKKECLIAASELVTCRE</Hsp_hseq>
+      <Hsp_midline>MSLCGLKKECLIAASELVTCRE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>emb|CUW79390.1|</Hit_id>
+  <Hit_def>conserved hypothetical protein [Escherichia coli]</Hit_def>
+  <Hit_accession>CUW79390</Hit_accession>
+  <Hit_len>29</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>44.669</Hsp_bit-score>
+      <Hsp_score>104</Hsp_score>
+      <Hsp_evalue>0.000150254</Hsp_evalue>
+      <Hsp_query-from>30</Hsp_query-from>
+      <Hsp_query-to>95</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>22</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>22</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>22</Hsp_align-len>
+      <Hsp_qseq>MSLCGLKKECLIAASELVTCRE</Hsp_qseq>
+      <Hsp_hseq>MSLCGLKKECLIAASELVTCRD</Hsp_hseq>
+      <Hsp_midline>MSLCGLKKECLIAASELVTCR+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>gb|TGB90437.1|</Hit_id>
+  <Hit_def>tRNA/rRNA methyltransferase [Escherichia sp. E3356]</Hit_def>
+  <Hit_accession>TGB90437</Hit_accession>
+  <Hit_len>262</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>45.8246</Hsp_bit-score>
+      <Hsp_score>107</Hsp_score>
+      <Hsp_evalue>0.00115911</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>240</Hsp_hit-from>
+      <Hsp_hit-to>262</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>18</Hsp_identity>
+      <Hsp_positive>20</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>23</Hsp_align-len>
+      <Hsp_qseq>FHSDCNGQYVSVWIKKRVSDSSF</Hsp_qseq>
+      <Hsp_hseq>FYSDCNGQYVSVWIKKRASTSTL</Hsp_hseq>
+      <Hsp_midline>F+SDCNGQYVSVWIKKR S S+ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>gb|EIQ49904.1|</Hit_id>
+  <Hit_def>RNA methyltransferase, TrmH, group 1 family protein, partial [Shigella flexneri 1235-66]</Hit_def>
+  <Hit_accession>EIQ49904</Hit_accession>
+  <Hit_len>253</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.9726</Hsp_bit-score>
+      <Hsp_score>97</Hsp_score>
+      <Hsp_evalue>0.0219441</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>253</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>16</Hsp_identity>
+      <Hsp_positive>16</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>16</Hsp_align-len>
+      <Hsp_qseq>AFHSDCNGQYVSVWIK</Hsp_qseq>
+      <Hsp_hseq>AFHSDCNGQYVSVWIK</Hsp_hseq>
+      <Hsp_midline>AFHSDCNGQYVSVWIK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>dbj|BDY92354.1|</Hit_id>
+  <Hit_def>tRNA (cytidine/uridine-2&apos;-O-)-methyltransferase TrmJ [Escherichia coli] &gt;dbj|BDZ00953.1| tRNA (cytidine/uridine-2&apos;-O-)-methyltransferase TrmJ [Escherichia coli]</Hit_def>
+  <Hit_accession>BDY92354</Hit_accession>
+  <Hit_len>260</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>38.1206</Hsp_bit-score>
+      <Hsp_score>87</Hsp_score>
+      <Hsp_evalue>0.578154</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>53</Hsp_query-to>
+      <Hsp_hit-from>238</Hsp_hit-from>
+      <Hsp_hit-to>254</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>16</Hsp_identity>
+      <Hsp_positive>17</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>17</Hsp_align-len>
+      <Hsp_qseq>LFILTATGNMSLCGLKK</Hsp_qseq>
+      <Hsp_hseq>LFILTATGNMSLCGLKR</Hsp_hseq>
+      <Hsp_midline>LFILTATGNMSLCGLK+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>908913892</Statistics_db-num>
+      <Statistics_db-len>345751102228</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
