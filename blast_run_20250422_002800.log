@@ -1,128 +1,143 @@
-算法名称：BLASTN
-对象：1sequence
-长度：100bp
-时间：60.87s
-identity：100.0
-e-value：1.12885e-41
-score：200.0
-----------------------------------------
-算法名称：BLASTN
-对象：1sequence
-长度：500bp
-时间：80.01s
-identity：100.0
-e-value：0.0
-score：1000.0
-----------------------------------------
-算法名称：BLASTN
-对象：1sequence
-长度：1000bp
-时间：140.05s
-identity：100.0
-e-value：0.0
-score：2000.0
-----------------------------------------
-算法名称：BLASTN
-对象：1sequence
-长度：2000bp
-时间：199.98s
-identity：100.0
-e-value：0.0
-score：4000.0
-----------------------------------------
-算法名称：BLASTN
-对象：2sequence
-长度：100bp
-时间：20.04s
-identity：100.0
-e-value：1.12885e-41
-score：200.0
-----------------------------------------
-算法名称：BLASTN
-对象：2sequence
-长度：500bp
-时间：19.89s
-identity：100.0
-e-value：0.0
-score：1000.0
-----------------------------------------
-算法名称：BLASTN
-对象：2sequence
-长度：1000bp
-时间：19.9s
-identity：100.0
-e-value：0.0
-score：2000.0
-----------------------------------------
-算法名称：BLASTN
-对象：2sequence
-长度：2000bp
-时间：80.24s
-identity：100.0
-e-value：0.0
-score：4000.0
-----------------------------------------
-算法名称：BLASTN
-对象：3sequence
-长度：100bp
-时间：139.84s
-identity：100.0
-e-value：1.12885e-41
-score：200.0
-----------------------------------------
-算法名称：BLASTN
-对象：3sequence
-长度：500bp
-时间：21.07s
-identity：100.0
-e-value：0.0
-score：1000.0
-----------------------------------------
-算法名称：BLASTN
-对象：3sequence
-长度：1000bp
-时间：18.89s
-identity：100.0
-e-value：0.0
-score：2000.0
-----------------------------------------
-算法名称：BLASTN
-对象：3sequence
-长度：2000bp
-时间：80.1s
-identity：100.0
-e-value：0.0
-score：4000.0
-----------------------------------------
-算法名称：BLASTN
-对象：4sequence
-长度：100bp
-时间：19.83s
-identity：100.0
-e-value：1.12885e-41
-score：200.0
-----------------------------------------
-算法名称：BLASTN
-对象：4sequence
-长度：500bp
-时间：20.15s
-identity：100.0
-e-value：0.0
-score：1000.0
-----------------------------------------
-算法名称：BLASTN
-对象：4sequence
-长度：1000bp
-时间：19.88s
-identity：100.0
-e-value：0.0
-score：2000.0
-----------------------------------------
-算法名称：BLASTN
-对象：4sequence
-长度：2000bp
-时间：20.02s
-identity：100.0
-e-value：0.0
-score：4000.0
-----------------------------------------
+**Algorithm Name:** BLASTN
+**Subject:** 1sequence
+**Length:** 100 bp
+**Time:** 60.87 s
+**Identity:** 100.0
+**E-value:** 1.12885e-41
+**Score:** 200.0
+----------------
+
+**Algorithm Name:** BLASTN
+**Subject:** 1sequence
+**Length:** 500 bp
+**Time:** 80.01 s
+**Identity:** 100.0
+**E-value:** 0.0
+**Score:** 1000.0
+-----------------
+
+**Algorithm Name:** BLASTN
+**Subject:** 1sequence
+**Length:** 1000 bp
+**Time:** 140.05 s
+**Identity:** 100.0
+**E-value:** 0.0
+**Score:** 2000.0
+-----------------
+
+**Algorithm Name:** BLASTN
+**Subject:** 1sequence
+**Length:** 2000 bp
+**Time:** 199.98 s
+**Identity:** 100.0
+**E-value:** 0.0
+**Score:** 4000.0
+-----------------
+
+**Algorithm Name:** BLASTN
+**Subject:** 2sequence
+**Length:** 100 bp
+**Time:** 20.04 s
+**Identity:** 100.0
+**E-value:** 1.12885e-41
+**Score:** 200.0
+----------------
+
+**Algorithm Name:** BLASTN
+**Subject:** 2sequence
+**Length:** 500 bp
+**Time:** 19.89 s
+**Identity:** 100.0
+**E-value:** 0.0
+**Score:** 1000.0
+-----------------
+
+**Algorithm Name:** BLASTN
+**Subject:** 2sequence
+**Length:** 1000 bp
+**Time:** 19.90 s
+**Identity:** 100.0
+**E-value:** 0.0
+**Score:** 2000.0
+-----------------
+
+**Algorithm Name:** BLASTN
+**Subject:** 2sequence
+**Length:** 2000 bp
+**Time:** 80.24 s
+**Identity:** 100.0
+**E-value:** 0.0
+**Score:** 4000.0
+-----------------
+
+**Algorithm Name:** BLASTN
+**Subject:** 3sequence
+**Length:** 100 bp
+**Time:** 139.84 s
+**Identity:** 100.0
+**E-value:** 1.12885e-41
+**Score:** 200.0
+----------------
+
+**Algorithm Name:** BLASTN
+**Subject:** 3sequence
+**Length:** 500 bp
+**Time:** 21.07 s
+**Identity:** 100.0
+**E-value:** 0.0
+**Score:** 1000.0
+-----------------
+
+**Algorithm Name:** BLASTN
+**Subject:** 3sequence
+**Length:** 1000 bp
+**Time:** 18.89 s
+**Identity:** 100.0
+**E-value:** 0.0
+**Score:** 2000.0
+-----------------
+
+**Algorithm Name:** BLASTN
+**Subject:** 3sequence
+**Length:** 2000 bp
+**Time:** 80.10 s
+**Identity:** 100.0
+**E-value:** 0.0
+**Score:** 4000.0
+-----------------
+
+**Algorithm Name:** BLASTN
+**Subject:** 4sequence
+**Length:** 100 bp
+**Time:** 19.83 s
+**Identity:** 100.0
+**E-value:** 1.12885e-41
+**Score:** 200.0
+----------------
+
+**Algorithm Name:** BLASTN
+**Subject:** 4sequence
+**Length:** 500 bp
+**Time:** 20.15 s
+**Identity:** 100.0
+**E-value:** 0.0
+**Score:** 1000.0
+-----------------
+
+**Algorithm Name:** BLASTN
+**Subject:** 4sequence
+**Length:** 1000 bp
+**Time:** 19.88 s
+**Identity:** 100.0
+**E-value:** 0.0
+**Score:** 2000.0
+-----------------
+
+**Algorithm Name:** BLASTN
+**Subject:** 4sequence
+**Length:** 2000 bp
+**Time:** 20.02 s
+**Identity:** 100.0
+**E-value:** 0.0
+**Score:** 4000.0
+-----------------

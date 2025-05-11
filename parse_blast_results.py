@@ -2,7 +2,7 @@ from Bio.Blast import NCBIXML
 import glob
 import sys
 
-# 从命令行参数读取模式（blastn 或 blastx）
+# Read the mode (blastn or blastx) from command-line arguments.
 if len(sys.argv) != 2 or sys.argv[1] not in ["blastn", "blastx"]:
     print("Usage: python parse_blast_results.py [blastn|blastx]")
     sys.exit(1)
